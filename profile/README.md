@@ -13,7 +13,7 @@
 <h2 align="center">✨ About Us</h2>
 
 <p align="center">
-  <strong>Kendriya Vidyalaya Developers</strong> is an unofficial student-led organization<br>
+  <strong>Kendriya Vidyalaya Github Organisation</strong> is an unofficial student-led organization<br>
   created to bring together coders, designers, and tech enthusiasts<br>
   from all Kendriya Vidyalayas across India.
 </p>
@@ -35,8 +35,8 @@
 </p>
 
 <p align="center">
-  1. DM nandu.js on discord or email at nandubussiness@gmail.com <br>
-  3. Please make sure to mention your github username and affliation to kv <br>
+  1. DM nandu.js on discord or email at nanduwastaken@gmail.com <br>
+  3. Please make sure to mention your github username and affliation to KV <br>
   4. Get invited to the GitHub org<br>
   5. Start collaborating and contributing!<br><br>
   <strong>No matter your skill level — everyone is welcome here. 🤝</strong>
@@ -78,3 +78,4 @@
 <p align="center">
   Made with ❤️ by KV students
 </p>
+
