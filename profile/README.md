@@ -5,7 +5,7 @@
 <h1 align="center">Kendriya Vidyalaya Sangathan</h1>
 
 <p align="center">
-  🚀 A student-led, unofficial tech community for KV coders, builders, and dreamers founded by <a href="https://nandu.is-a.dev">NanduBit</a> <br>.
+  🚀 A student-led, unofficial tech community for KV coders, builders, and dreamers founded by <a href="https://nandu.is-a.dev">NanduBit</a> <br>
 </p>
 
 ---
@@ -77,5 +77,6 @@
 <p align="center">
   Made with ❤️ by KV students
 </p>
+
 
 
