@@ -5,7 +5,7 @@
 <h1 align="center">Kendriya Vidyalaya Sangathan</h1>
 
 <p align="center">
-  🚀 A student-led, unofficial tech community for KV coders, builders, and dreamers.
+  🚀 A student-led, unofficial tech community for KV coders, builders, and dreamers founded by <a href="https://nandu.is-a.dev">NanduBit</a> <br>.
 </p>
 
 ---
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  1. DM nandu.js on discord or email at nanduwastaken@gmail.com <br>
+  1. DM nandu.js on discord or email at <a href="mailto:nanduwastaken@gmail.com">nanduwastaken@gmail.com</a> <br>
   3. Please make sure to mention your github username and affliation to KV <br>
   4. Get invited to the GitHub org<br>
   5. Start collaborating and contributing!<br><br>
@@ -74,8 +74,8 @@
 </p>
 
 ---
-
 <p align="center">
   Made with ❤️ by KV students
 </p>
+
 
